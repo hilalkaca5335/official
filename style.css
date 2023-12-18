@@ -1,0 +1,18 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+  background-position:62%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('https://4kwallpapers.com/images/wallpapers/audi-rs-7-sportback-3840x2160-11926.jpeg');
+  min-height: 100%;
+}
+
+.w3-round, .w3-round-medium {
+  border-radius: 4px;
+}
+
+.w3-image {
+  max-width: 100%;
+  height: auto;
+}
